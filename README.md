@@ -9,3 +9,5 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 
 Dashboard -![Image](https://github.com/user-attachments/assets/15591cc9-51d4-46b8-a367-cd06d28b0b61)
+
+forecasts for next 15 days - ![Image](https://github.com/user-attachments/assets/15591cc9-51d4-46b8-a367-cd06d28b0b61)
