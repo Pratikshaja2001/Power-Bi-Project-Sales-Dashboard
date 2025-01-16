@@ -8,4 +8,4 @@ To contribute to the success of a business by utilizing data analysis techniques
 4. Actionable Insights and Recommendations : End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth efficiency and customer satisfaction
 
 
-Dashboard -![Image](https://github.com/user-attachments/assets/b827d733-aef2-4e46-bfa0-dee510b4af03)
+Dashboard -![Image](https://github.com/user-attachments/assets/15591cc9-51d4-46b8-a367-cd06d28b0b61)
